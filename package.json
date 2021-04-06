@@ -1,0 +1,16 @@
+{
+  "name": "cellauto",
+  "version": "1.0.0",
+  "description": "nah",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cellular_automata",
+    "science"
+  ],
+  "author": "Vniversvs",
+  "license": "ISC"
+}
